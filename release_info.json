@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "release_date": "2025-11-26",
+  "filename": "VTAB_Setup.exe",
+  "size_mb": 107.6,
+  "sha256": "c1dff1b90b040bed879a667693e416a589a01cee429ca9e8a1053dce17ae7525",
+  "download_url": "https://github.com/KadenBevan/VTAB/releases/download/v1.0.0/VTAB_Setup.exe",
+  "system_requirements": {
+    "os": "Windows 10/11 (64-bit)",
+    "ram": "4 GB minimum, 8 GB recommended",
+    "disk_space": "500 MB",
+    "display": "1280x720 minimum"
+  }
+}
